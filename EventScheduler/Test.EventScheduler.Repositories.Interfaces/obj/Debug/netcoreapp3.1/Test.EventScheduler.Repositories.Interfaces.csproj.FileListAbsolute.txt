@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\bin\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.deps.json
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\bin\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\bin\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.csproj.CopyComplete
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Repositories.Interfaces\obj\Debug\netcoreapp3.1\Test.EventScheduler.Repositories.Interfaces.pdb

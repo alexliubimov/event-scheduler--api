@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.deps.json
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.runtimeconfig.json
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.csproj.CopyComplete
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.DataAccess\obj\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Services.deps.json
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Services.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Services.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Services.Interfaces.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Services.Interfaces.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.csproj.CopyComplete
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\obj\Debug\netcoreapp3.1\Test.EventScheduler.Services.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Services\bin\Debug\netcoreapp3.1\Test.EventScheduler.DataAccess.pdb

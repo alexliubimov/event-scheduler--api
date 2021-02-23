@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.deps.json
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\bin\Debug\netcoreapp3.1\Test.EventScheduler.Data.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\obj\Debug\netcoreapp3.1\Test.EventScheduler.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\obj\Debug\netcoreapp3.1\Test.EventScheduler.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\obj\Debug\netcoreapp3.1\Test.EventScheduler.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\obj\Debug\netcoreapp3.1\Test.EventScheduler.Data.dll
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\obj\Debug\netcoreapp3.1\Test.EventScheduler.Data.pdb
+C:\Users\Admin\source\repos\Test.EventScheduler\Test.EventScheduler.Data\obj\Debug\netcoreapp3.1\Test.EventScheduler.Data.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Test.EventScheduler.DataAccess\Test.EventScheduler.DataAccess.csproj" />
+    <ProjectReference Include="..\Test.EventScheduler.Services.Interfaces\Test.EventScheduler.Services.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

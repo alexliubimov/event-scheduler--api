@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPzIgUsT7A+8T6AKXdlt2zjHrFxuotQ9/2pBNvgzvduMw+57dUznpDJpg+KC5yXqUy68MwuCqArF/R3yPhJkeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Test.EventScheduler\\Test.EventScheduler.Services.Interfaces\\Test.EventScheduler.Services.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

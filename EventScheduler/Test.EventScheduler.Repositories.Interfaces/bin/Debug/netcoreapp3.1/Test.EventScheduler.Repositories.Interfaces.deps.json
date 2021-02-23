@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test.EventScheduler.Repositories.Interfaces/1.0.0": {
+        "dependencies": {
+          "Test.EventScheduler.Data": "1.0.0"
+        },
+        "runtime": {
+          "Test.EventScheduler.Repositories.Interfaces.dll": {}
+        }
+      },
+      "Test.EventScheduler.Data/1.0.0": {
+        "runtime": {
+          "Test.EventScheduler.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test.EventScheduler.Repositories.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Test.EventScheduler.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
